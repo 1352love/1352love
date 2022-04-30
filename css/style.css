@@ -9264,3 +9264,8 @@ img.vimg:hover {
     -o-transform: rotate(360deg);
     -ms-transform: rotate(360deg);
 }
+
+/* 隐藏valine版权信息 */
+.txt-right{
+    display: none;
+}
